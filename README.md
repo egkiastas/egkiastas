@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Vangelis 👋
 
-<!--
-**egkiastas/egkiastas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ML Engineer and Data Scientist. For 7+ years I've worked on models that have to keep working after launch, not just look good in a notebook.
 
-Here are some ideas to get you started:
+Recently that's meant:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Predictions at marketplace scale, like whether an item will actually be in stock and how long a delivery will really take
+- LLM tools that let people ask data questions or get smarter notifications
+- Before that: computer vision for wildfire detection, time-series and anomaly detection, and GPU/FPGA-accelerated ML
+
+Most of it lives in private company repos, so this graph is quiet. The pinned projects are what I build in my own time.
+
+[LinkedIn](https://www.linkedin.com/in/vangelis-gkiastas/) is the easiest way to reach me.
